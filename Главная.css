@@ -1,0 +1,82 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 950px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 128px;
+}
+
+.u-section-1 .u-table-1 {
+  margin: 31px auto 59px;
+}
+
+.u-section-1 .u-table-header-1 {
+  font-family: "11705";
+  letter-spacing: 2px;
+  font-size: 0.75rem;
+}
+
+.u-section-1 .u-table-cell-1 {
+  font-family: "11705";
+}
+
+.u-section-1 .u-table-cell-2 {
+  border-style: solid;
+}
+
+.u-section-1 .u-table-body-1 {
+  font-family: "11705";
+  font-weight: 200;
+  font-size: 0.625rem;
+  letter-spacing: 3px;
+}
+
+.u-section-1 .u-table-cell-8 {
+  font-weight: 300;
+  font-family: "11705";
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-block-6d7f-39 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}@font-face {
+  font-family: '11705';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/11705.ttf);
+}
